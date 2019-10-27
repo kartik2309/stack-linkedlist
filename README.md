@@ -1,6 +1,5 @@
-========================================================================
-    CONSOLE APPLICATION : stack-linkedlist Project Overview
-========================================================================
+CONSOLE APPLICATION : stack-linkedlist Project Overview
+
 
 AppWizard has created this stack-linkedlist application for you.
 
